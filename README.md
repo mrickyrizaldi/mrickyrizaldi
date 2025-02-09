@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Ricky Rizaldi**.<br>
 
-Saya seorang **Mahasiswa Teknik Elektro** di [Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin](https://uniska.ac.id).<br>
+Saya seorang **Mahasiswa Teknik Elektro** di [Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin](https://uniska-bjm.ac.id).<br>
 
 Saya sangat tertarik dengan pembelajaran terkait penggunaan **Artificial Intelligence**.<br>
 
