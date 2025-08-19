@@ -1,11 +1,11 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Muhammad Ricky Rizaldi</h1>
-<h3 align="center">Mahasiswa Teknik Elektro | Machine Learning Enthusiast | AI Explorer</h3>
+<h3 align="center">Mahasiswa Teknik Elektro | Machine Learning Enthusiast | AI Explorer| Data Analys</h3>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3EB489&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Mahasiswa+Teknik+Elektro;Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3EB489&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,c,cpp,java,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,sklearn,opencv,docker,prometheus,grafana&perline=6" />
 </p>
 
 ---
@@ -48,11 +48,3 @@
   <img src="https://komarev.com/ghpvc/?username=mrickyrizaldi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-### Contribution Snake
-<p align="center">
-  <img src="https://github.com/mrickyrizaldi/mrickyrizaldi/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
----
