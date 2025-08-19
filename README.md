@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Muhammad Ricky Rizaldi</h1>
-<h3 align="center">Mahasiswa Teknik Elektro | Machine Learning Enthusiast | AI Explorer| Data Analys</h3>
+<h3 align="center">Mahasiswa Teknik Elektro | Machine Learning Enthusiast | AI Explorer | Data Analyst</h3>
 
 <!-- Typing SVG -->
 <p align="center">
