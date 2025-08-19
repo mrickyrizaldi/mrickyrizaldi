@@ -11,21 +11,21 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### Tentang Saya
 - Mahasiswa **Teknik Elektro** di [UNISKA MAB Banjarmasin](https://uniska-bjm.ac.id)  
 - Sedang memperdalam **Python, Data Analysis, Machine Learning, IoT dan PLC**  
 - Terhubung dengan saya di [LinkedIn](https://www.linkedin.com/in/mrickyr)  
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,c,cpp,java,git,github,linux,vscode&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrickyrizaldi&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrickyrizaldi&layout=compact&theme=algolia&hide_border=true" height="180em"/>
@@ -37,14 +37,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrickyrizaldi&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mrickyr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -57,11 +50,9 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 <p align="center">
   <img src="https://github.com/mrickyrizaldi/mrickyrizaldi/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
-
-✨ _“Stay curious, keep learning, and build amazing things with AI!”_
