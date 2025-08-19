@@ -20,7 +20,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,sklearn,opencv,docker,prometheus,grafana&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,sklearn,opencv,docker,prometheus,grafana,c,cpp&perline=7" />
 </p>
 
 ---
